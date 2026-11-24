@@ -1,24 +1,16 @@
 <h1 align="center">Ilyes Karaani</h1>
 <h3 align="center">Embedded Software Engineer | HMI & Embedded Linux</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/ilyes-karaani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.upwork.com/freelancers/ilyeskr?mp_source=share"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"></a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/ilyes-karaani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.upwork.com/freelancers/ilyeskr?mp_source=share"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"></a></p>
 
-## About me
+Embedded software engineer with over five years of experience developing firmware, graphical interfaces and connected devices. I bridge low-level hardware integration and application development to build responsive, reliable embedded products.
 
-Embedded software engineer with over five years of experience developing firmware, embedded graphical interfaces and connected devices. I bridge low-level hardware integration and application development to create responsive, reliable embedded products.
+## Selected projects
 
-## Selected work
-
-| Project | Focus |
-| --- | --- |
-| Motorcycle digital instrument cluster | Qt-based embedded HMI and instrumentation |
-| Vespa digital speedometer | Custom dashboard, gauges and status indicators |
-| Bluetooth vehicle instrument | Compact circular display and vehicle-oriented interface |
-| Coffee machine HMI | Circular touchscreen interface and appliance UI |
-| Smart display tag | Compact display with animated visual content |
-| Digital dashboard prototype | Custom graphical gauges and instrument visualization |
+<table>
+<tr><td width="50%" valign="top"><h3>Motorcycle digital instrument cluster</h3><a href="assets/motorcycle-cluster.mp4"><img src="assets/motorcycle-cluster.gif" width="100%" alt="Motorcycle cluster demo"></a><p>Qt-based embedded HMI and instrumentation.</p><a href="assets/motorcycle-cluster.mp4">Watch demonstration</a></td><td width="50%" valign="top"><h3>Vespa digital speedometer</h3><a href="assets/vespa-speedometer.mp4"><img src="assets/vespa-speedometer.gif" width="100%" alt="Vespa speedometer demo"></a><p>Custom dashboard, gauges and status indicators.</p><a href="assets/vespa-speedometer.mp4">Watch demonstration</a></td></tr>
+<tr><td valign="top"><h3>BLE vehicle instrument</h3><a href="assets/ble-instrument.mp4"><img src="assets/ble-instrument.gif" width="100%" alt="BLE instrument demo"></a><p>Compact circular vehicle-oriented display.</p><a href="assets/ble-instrument.mp4">Watch demonstration</a></td><td valign="top"><h3>Coffee machine HMI</h3><a href="assets/coffee-machine.mp4"><img src="assets/coffee-machine.gif" width="100%" alt="Coffee machine demo"></a><p>Appliance interface with circular display.</p><a href="assets/coffee-machine.mp4">Watch demonstration</a></td></tr>
+<tr><td valign="top"><h3>Smart display tag</h3><a href="assets/smart-tag.mp4"><img src="assets/smart-tag.gif" width="100%" alt="Smart tag demo"></a><p>Compact display with animated visual content.</p><a href="assets/smart-tag.mp4">Watch demonstration</a></td><td valign="top"><h3>Digital dashboard prototype</h3><a href="assets/dashboard.mp4"><img src="assets/dashboard.gif" width="100%" alt="Dashboard demo"></a><p>Custom graphical gauges and instrument visualization.</p><a href="assets/dashboard.mp4">Watch demonstration</a></td></tr>
+</table>
 
 ## Engineering expertise
 
@@ -40,7 +32,5 @@ Embedded software engineer with over five years of experience developing firmwar
 - Performance optimization and prototyping
 
 ## Let's collaborate
-
-I work with engineering teams and international clients on embedded product development, from prototypes to integrated systems.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/ilyes-karaani/) · [Hire me on Upwork](https://www.upwork.com/freelancers/ilyeskr?mp_source=share)
